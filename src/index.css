@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Inter', sans-serif;
+}
+
+p,
+a,
+li {
+  font-family: 'Karla', sans-serif;
+}
+
+a:active {
+  color: 'fd7a3c'
+}
